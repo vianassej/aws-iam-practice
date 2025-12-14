@@ -1,7 +1,17 @@
-/labs
-  /iam-user-creation
-  /iam-policies
-  /iam-groups
-/notes
-  vocabulary-security.md
-  daily-learning-log.md
+aws-iam-practice/
+│
+├── labs/
+│   ├── iam-user-creation/
+│   │   └── README.md
+│   ├── iam-policies/
+│   │   └── README.md
+│   ├── iam-groups/
+│   │   └── README.md
+│   └── security-basics/
+│       └── README.md
+│
+├── notes/
+│   ├── daily-learning-log.md
+│   └── vocabulary-security.md
+│
+└── README.md
